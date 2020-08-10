@@ -10,4 +10,5 @@ Edit entries that had been previously submitted<p>
 Clickable buttons for 1-10 for each entry<p>
 Mobile-friendly<p>
 <b>Reach features:</b><p>
-Embed links to case files for judge reference
+Expand/collapse sections of the ballot<p>
+Embed links to case files for judge reference<p>
