@@ -9,3 +9,5 @@ Edit entries that had been previously submitted<p>
 <b>Preferred features:</b><p>
 Clickable buttons for 1-10 for each entry<p>
 Mobile-friendly<p>
+<b>Reach features:</b><p>
+Embed links to case files for judge reference
